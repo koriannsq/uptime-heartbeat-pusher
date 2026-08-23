@@ -1,0 +1,1 @@
+def beat(url): print(f'Ping {url}')
